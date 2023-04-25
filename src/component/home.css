@@ -1,0 +1,15 @@
+button {
+    background-color: rgb(50, 50, 132);
+    width: 7rem;
+    padding: 1rem 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 2rem;
+    margin-top: 2rem;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
